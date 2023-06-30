@@ -1,0 +1,27 @@
+As we all are aware about the rappid advancement and evolution being made in context of artificial intelligence and Natural language processing
+(NLP),One of the popular NLP is chatgpt. ChatGPT, now has become a primary tool for every men. ChatGPT allows user to ask question and give response.
+The response are fast and most of the time, accurate. I might not have to explain about ChatGPT, we all have seen the work done by it. well how
+it does that. The simple answer will be , it is trained on very large dataset. This one might not satisfy you understanding. So i will give you an
+example.
+               lets take a 10000 pic of dog and cat and input it in the computer. now give a image of cat and ask it what is it. it is most likely
+               to predict that its a cat, why is this? Well what the machine does when you give a image of cat and dog, it tries to find the pattern
+               between dogs and pattern between cats. when it findd it. it gives you the prediction that's all. prediction may not be every time right
+               but even if it predicts wrong you can feed that again with the right prediction
+
+well we know chat gpt can do a lot of work, but rn it is limited. it cannot access your file. it can write a letter for you but cant send that.
+In Normal words , it can only say how to do some work. it cant do it by itself.
+What i am trying to do is , i am trying to make something that will allow me to take chatgpt prompt and convert it to command and execute them so ,
+i can make everything automated. from texting you friend to writing a mail to your boss. from recommending movies to automatically playing
+movies you would want to watch. from adjusting your home environment condition according to you to diagnosing disease by keeping track of you food
+and health. from automatically debugging code to giving you voice access of the os. The possibilities are endless and , even i dont have the idea
+what more we can do. it can help in research , education , economic,  finance and health . Well we can do a lot with this.
+
+Now what i am trying to do is for the starters , i am trying to figure out wether a sentence is a command or a normal sentence.
+We can do it in lots of ways. Okay said by me, easier said than done.
+well What i was thingking is if we can see what normal sentence and command sentence is made of and if we can draw a pattern between them,
+then we can use logistic regression (machine learning approach) to train a model to predict if the sentence is command or normal sentence.
+and for this we might need a bigger dataset to train the model and get better accurate result.
+
+we if we are able to get the first part done ,then we will take the recording and try to predict if the recording is a conversation or a command
+sentence, well this is one of the most challenging part. i haven't thought about it rn. but  i will give it a though after i complete the first part
+

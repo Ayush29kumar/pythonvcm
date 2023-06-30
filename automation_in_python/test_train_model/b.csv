@@ -1,0 +1,68 @@
+command,category
+unlock the screen,unlock_screen
+unlock screen,unlock_screen
+release the screen lock,unlock_screen
+deactivate screen lock,unlock_screen
+turn off screen lock,unlock_screen
+disable screen lock,unlock_screen
+unlock the display,unlock_screen
+unlock display,unlock_screen
+release the display lock,unlock_screen
+deactivate display lock,unlock_screen
+turn off display lock,unlock_screen
+disable display lock,unlock_screen
+unlock the monitor,unlock_screen
+unlock monitor,unlock_screen
+release the monitor lock,unlock_screen
+deactivate monitor lock,unlock_screen
+turn off monitor lock,unlock_screen
+disable monitor lock,unlock_screen
+disable screen security,unlock_screen
+deactivate screen security,unlock_screen
+turn off screen security,unlock_screen
+disable screen protection,unlock_screen
+deactivate screen protection,unlock_screen
+turn off screen protection,unlock_screen
+remove screen lock,unlock_screen
+remove display lock,unlock_screen
+remove monitor lock,unlock_screen
+stop screen lock,unlock_screen
+stop display lock,unlock_screen
+stop monitor lock,unlock_screen
+disable screen password,unlock_screen
+deactivate screen password,unlock_screen
+turn off screen password,unlock_screen
+lock the screen,lock_screen
+lock screen,lock_screen
+secure the screen,lock_screen
+activate screen lock,lock_screen
+engage screen lock,lock_screen
+turn on screen lock,lock_screen
+enable screen lock,lock_screen
+initiate screen lock,lock_screen
+put the screen on lock,lock_screen
+lock the display,lock_screen
+lock display,lock_screen
+activate display lock,lock_screen
+engage display lock,lock_screen
+turn on display lock,lock_screen
+enable display lock,lock_screen
+initiate display lock,lock_screen
+put the display on lock,lock_screen
+lock the monito,lock_screen
+lock monitor,lock_screen
+activate monitor lock,lock_screen
+engage monitor lock,lock_screen
+turn on monitor lock,lock_screen
+enable monitor lock,lock_screen
+initiate monitor lock,lock_screen
+put the monitor on lock,lock_screen
+activate screen security,lock_screen
+engage screen security,lock_screen
+turn on screen security,lock_screen
+enable screen security,lock_screen
+initiate screen security,lock_screen
+activate screen protection,lock_screen
+engage screen protection,lock_screen
+turn on screen protection,lock_screen
+enable screen protection,lock_screen
